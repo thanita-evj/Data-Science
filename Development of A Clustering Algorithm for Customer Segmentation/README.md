@@ -4,12 +4,15 @@
 
 [thesispaper]: https://drive.google.com/file/d/1u-UkXu_BITWIKMxV18zjseE58xik60gH/view?usp=sharing
 
->[!NOTE]
-**For a comprehensive analysis, please refer to this [Full Master Thesis Report][thesisreport] or [Master Thesis Research Paper][thesispaper] Documents.**
-
 [thesispresent]: https://drive.google.com/file/d/1VPMSSxNwDCyeA4Rj4DSJkFjhi91oRezi/view?usp=sharing
 
-**Presentation: [Master Thesis Presentation][thesispresent]**
+>[!NOTE]
+**For a comprehensive analysis, please refer to this [Full Master Thesis Report][thesisreport] or [Master Thesis Research Paper][thesispaper] and [Master Thesis Presentation][thesispresent] Documents.**
+
+[thesiscode]: https://drive.google.com/drive/folders/1u74N3MmvbAQb88wW-any42P3bhVCaAyB?usp=sharing
+
+>[!WARNING]
+**If cannot access the code in Github, please download the [Python Code][thesiscode] here**
 
 ### 1. Abstract
 
