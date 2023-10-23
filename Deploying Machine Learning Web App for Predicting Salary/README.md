@@ -2,7 +2,8 @@
 
 [fullfiledeploy]: https://drive.google.com/file/d/1-TucgkdbfFbrxnz6PgT_WAgchcCMafJq/view?usp=sharing
 
-**(Note: For a comprehensive analysis, please refer to the [Full Report][fullfiledeploy] document.)**
+>[!NOTE]
+**For a comprehensive analysis, please refer to this [Full Report][fullfiledeploy] document.**
 
 ### 1. Introduction
 
