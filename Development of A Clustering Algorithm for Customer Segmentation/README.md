@@ -4,7 +4,8 @@
 
 [thesispaper]: https://drive.google.com/file/d/1u-UkXu_BITWIKMxV18zjseE58xik60gH/view?usp=sharing
 
-**(Note: For a comprehensive analysis, please refer to this [Full Master Thesis Report][thesisreport] or [Master Thesis Research Paper][thesispaper] Documents)**
+>[!NOTE]
+**For a comprehensive analysis, please refer to this [Full Master Thesis Report][thesisreport] or [Master Thesis Research Paper][thesispaper] Documents.**
 
 [thesispresent]: https://drive.google.com/file/d/1VPMSSxNwDCyeA4Rj4DSJkFjhi91oRezi/view?usp=sharing
 
@@ -34,5 +35,14 @@ The experiment makes two main contributions to develop the clustering algorithm 
 - The second contribution is integrating clustering algorithms consisting of K-means, hierarchical, DBSCAN, and proposed hybrid DBK-means with dimensional reduction techniques, specifically feature importance and principal component analysis (PCA).
 
 The implementation of clustering algorithms and methodology proceeds as shown in Fig. 1. 
+
+<img width="649" alt="Methodology" src="https://github.com/thanita-evj/Data-Science/assets/145984336/bb74fe25-aa00-446a-983f-550270f4be83">
+
+Fig 1. Schematic methodology
+
+### 6. Conclusion
+
+This study focused on improving clustering algorithms for customer segmentation using two key strategies: implementing a hybrid DBSCAN and K-means algorithm and combining this with dimensional reduction techniques. Normalized datasets were used to balance the clusters, with metrics such as Silhouette coefficient and Calinski-Harabasz index assessing performance. The integration of feature importance into the algorithms significantly enhanced clustering performance, outperforming Principal Component Analysis (PCA) and the initial datasets. The fastest processing time was observed with the K-means algorithm, while DBSCAN, despite having lower performance scores, excelled in anomaly detection. To leverage this strength of DBSCAN while improving its performance, a hybrid DBK-means algorithm was proposed. Evaluations revealed that the hybrid DBK-means approach, particularly when combined with feature importance, demonstrated superior performance in creating dense and well-separated clusters, though it required careful initial parameter selection and resulted in longer processing times. Furthermore, hybrid DBK-means demonstrated superior performance, maintaining the ability to detect outliers and define the number of clusters. Despite longer processing times due to algorithmic complexity, DBSCAN and the hybrid algorithm proved valuable for anomaly detection and cluster flexibility. The study identified a significant group of customers with high transaction volumes, providing actionable insights for targeted marketing strategies and product recommendations. Therefore, combination of clustering algorithms with dimensional reduction techniques improved clustering results for customer segmentation. 
+
 
 
