@@ -9,7 +9,7 @@
 
 [thesispresent]: https://drive.google.com/file/d/1VPMSSxNwDCyeA4Rj4DSJkFjhi91oRezi/view?usp=sharing
 
-**Presentation:** [Master Thesis Presentation][thesispresent]
+**Presentation: [Master Thesis Presentation][thesispresent]**
 
 ### 1. Abstract
 
