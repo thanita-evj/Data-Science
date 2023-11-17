@@ -1,6 +1,6 @@
 ## The Use of Amazon S3 and EC2 for Deploying Machine Learning Web Application to Predict Software Developer Salaries
 
-[fullfiledeploy]: https://drive.google.com/file/d/1-TucgkdbfFbrxnz6PgT_WAgchcCMafJq/view?usp=sharing
+[fullfiledeploy]: https://drive.google.com/file/d/1akC871lgTeqZpXq1UQMCrGDx_1okJ1Wm/view?usp=sharing
 
 >[!NOTE]
 **For a comprehensive analysis, please refer to this [Full Report][fullfiledeploy] document.**
