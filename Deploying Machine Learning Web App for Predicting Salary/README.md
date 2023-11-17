@@ -64,7 +64,7 @@ To choose the most appropriate machine learning algorithm that is best fit and i
 Root Mean Square Error (RMSE) provides a measure of the magnitude of the model’s prediction errors. It is used to measure the difference between values predicted by a model and the values observed. RMSE represents the sample standard deviation of the differences between predicted and observed values. A lower RMSE indicates a better fit of the model to the data, while a higher RMSE indicates a poorer fit. Additionally, RMSE has the same units as the dependent variable. The evaluation of models is provided as follows:
 
   -	Logistic Regression: RMSE value of $49370.57 suggests that on average, the model’s predictions deviate from the actual salaries by approximately $49370. Since logistic regression is typically used for classification tasks rather than regression. Therefore, using it for salary prediction might not be the most appropriate choice.
-  -	Decision Tree: This model performs better than logistic regression with an RMSE of $38375.22. The prediction from decision tree model, on average, off by around $37375 from the actual salaries. This suggests that the decision tree has captured the underlying patterns in the data more accurately than logistic regression.
+  -	Decision Tree: This model performs better than logistic regression with an RMSE of $38375.22. The prediction from decision tree model, on average, off by around $38375 from the actual salaries. This suggests that the decision tree has captured the underlying patterns in the data more accurately than logistic regression.
 
 ### 6. Save and Test the Model using Sample Set
 
